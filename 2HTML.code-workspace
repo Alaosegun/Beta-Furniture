@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\2HTML"
+		},
+		{
+			"path": "..\\Solar system"
+		},
+		{
+			"path": "..\\Odin Project"
+		},
+		{
+			"path": "..\\Spotify"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Beta Travel"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Beta Funitures"
+	}
+}
